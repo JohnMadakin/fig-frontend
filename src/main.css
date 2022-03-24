@@ -32,3 +32,33 @@
   cursor: pointer;
   border-radius: 6px;
 }
+
+.category-block-noevents {
+  text-align: center;
+}
+
+.selectedCat {
+  font-size: 24px;
+  padding: 40px 40px 0px 0px;
+}
+
+.create-events-button {
+  background-color: #4CAF57;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 4px 0px 0px 4px;
+}
+
+.create-events-label {
+  padding: 2px 2px;
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: 700px;
+  text-align: center;
+}
